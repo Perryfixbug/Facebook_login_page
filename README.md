@@ -1,2 +1,2 @@
 # Facebook_login_page
-Thiết kết giao điện đăng nhập của Facebook dùng Reactjs
+Dùng Reactjs thiết kế giao diện đăng nhập của Facebook
